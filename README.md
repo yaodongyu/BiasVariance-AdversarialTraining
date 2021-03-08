@@ -1,6 +1,14 @@
-# Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition
+# BiasVariance-AdversarialTraining
 
-This is the code for the "Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition".
+This is the code for the paper "Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition".
+
+
+<p align="center">
+    <img src="images/main_fig.pdf" width="600"\>
+</p>
+<p align="center">
+Risk, bias, and variance for ResNet34 on CIFAR10 dataset (25,000 training samples).
+</p>
 
 
 ## Prerequisites
