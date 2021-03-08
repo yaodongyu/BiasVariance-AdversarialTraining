@@ -69,12 +69,13 @@ The log file includes the following,
 
 
 
-
-### CIFAR100
+## CIFAR100 
+### CIFAR100 Training
 To run the L-infinity adversarial training with ```eps=8.0``` on the CIFAR100 dataset saved to folder ```model_Linf_eps8```, run
 ```text
 python train_adv.py --norm l_inf --fname model_Linf_eps8 --epsilon 8
 ```
+### CIFAR100 Evaluation
 To evaluate the standard (squared loss) bias-variance on the above model ```model_Linf_eps8``` on epoch ```200```, run
 ```text
 python eval_adv_bv_mse.py  --fname model_Linf_eps8 --resume 200 --attack none
