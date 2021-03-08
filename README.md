@@ -93,7 +93,7 @@ For more experimental and technical details, please check our [paper](https://ar
 ```
 @inproceedings{yu2021understanding,
   author = {Yaodong Yu and Zitong Yang and Edgar Dobriban and Jacob Steinhardt and Yi Ma},
-  title = {Rethinking bias-variance trade-off for generalization of neural networks},
+  title = {Understanding generalization in adversarial training via the bias-variance decomposition},
   journal={arXiv preprint arXiv:todo},
   year={2021}
 }
