@@ -1,7 +1,13 @@
-# Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition
+# BiasVariance-AdversarialTraining
 
-This is the code for the "Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition".
+This is the code for the paper "Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition".
 
+
+<object data="images/main_fig.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="images/main_fig.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Prerequisites
 * Python
