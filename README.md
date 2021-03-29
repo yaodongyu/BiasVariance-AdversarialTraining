@@ -94,7 +94,7 @@ For more experimental and technical details, please check our [paper](https://ar
 ```
 @article{yu2021understanding,
   title={Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition},
-  author={Yu, Yaodong and Yang, Zitong and Dobriban, Edgar and Steinhardt, Jacob and Ma, Yi},
+  author={Yaodong Yu and Zitong Yang and Edgar Dobriban and Jacob Steinhardt and Yi Ma},
   journal={arXiv preprint arXiv:2103.09947},
   year={2021}
 }
