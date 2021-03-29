@@ -92,10 +92,10 @@ To reproduce the logistic_regression results, run ```logistic_regression.ipynb``
 ## Reference
 For more experimental and technical details, please check our [paper](https://arxiv.org/abs/todo).
 ```
-@inproceedings{yu2021understanding,
-  author = {Yaodong Yu and Zitong Yang and Edgar Dobriban and Jacob Steinhardt and Yi Ma},
-  title = {Understanding generalization in adversarial training via the bias-variance decomposition},
-  journal={arXiv preprint arXiv:todo},
+@article{yu2021understanding,
+  title={Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition},
+  author={Yu, Yaodong and Yang, Zitong and Dobriban, Edgar and Steinhardt, Jacob and Ma, Yi},
+  journal={arXiv preprint arXiv:2103.09947},
   year={2021}
 }
 ```
