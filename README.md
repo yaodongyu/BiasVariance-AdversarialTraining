@@ -1,6 +1,6 @@
 # BiasVariance-AdversarialTraining
 
-This is the code for the paper "Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition".
+This is the code for the paper "[Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition](https://arxiv.org/abs/2103.09947)".
 
 
 <p align="center">
@@ -90,7 +90,7 @@ To reproduce the logistic_regression results, run ```logistic_regression.ipynb``
 
 
 ## Reference
-For more experimental and technical details, please check our [paper](https://arxiv.org/abs/todo).
+For more experimental and technical details, please check our [paper](https://arxiv.org/abs/2103.09947).
 ```
 @article{yu2021understanding,
   title={Understanding Generalization in Adversarial Training via the Bias-Variance Decomposition},
